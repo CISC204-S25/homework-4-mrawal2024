@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://badt0dc6rjood"]
+
+[ext_resource type="Script" path="res://maharshi.gd" id="1_0qd0n"]
+
+[node name="Maharshi" type="Node2D"]
+script = ExtResource("1_0qd0n")
